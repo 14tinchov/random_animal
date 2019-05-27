@@ -1,6 +1,6 @@
 {
-  "name": "random_animal",
-  "version": "1.0.0",
+  "name": "@tinchov/random_animal",
+  "version": "2.0.0",
   "description": "Random Animal",
   "main": "index.js",
   "scripts": {

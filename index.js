@@ -16,11 +16,13 @@ const animals = [
   'Horse'
 ]
 
-function randomAnimal() {
-  var maximum = animals.length - 1;
-  var minimum = 0;
-  var randomNumber = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;;
-  return animals[randomNumber]
+var RandomAnimal = {
+  getOne() {
+    var maximum = animals.length - 1;
+    var minimum = 0;
+    var randomNumber = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;;
+    return animals[randomNumber]
+  }
 }
 
 module.exports = randomAnimal;
