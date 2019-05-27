@@ -25,4 +25,4 @@ var RandomAnimal = {
   }
 }
 
-module.exports = randomAnimal;
+module.exports = RandomAnimal;
