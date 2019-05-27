@@ -1,0 +1,16 @@
+{
+  "name": "random_animal",
+  "version": "1.0.0",
+  "description": "Random Animal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Random",
+    "Animal",
+    "JS"
+  ],
+  "author": "Martin Villalba (14tinchov@gmail.com)",
+  "license": "ISC"
+}
